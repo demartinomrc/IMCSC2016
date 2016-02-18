@@ -7,9 +7,9 @@ title: IMCSC2016
 
 ### Acustica e PsicoAcustica
 
-***IL SUONO - Caratteristiche e percezione***
+***IL SUONO - Caratteristiche e percezione (riassunto degli argomenti trattati)***
 
-#### 1. Caratteristiche del Suono:
+#### 1. Elementi caratterizzanti:
 
 1. Frequenza
 
@@ -83,4 +83,4 @@ Tra le seguenti composizioni, sceglierne una ed analizzarla usando la terminolog
 
 - [Armando Gentilucci - Introduzione alla Musica Elettronica](https://copy.com/gmatZ8qkaw1WROAG)
 - [Henri Pousseur - La musica elettronica](https://www.dropbox.com/s/hzafguvw6y7iecc/Pousseur_La%20musica%20elettronica.pdf?dl=0)
--[Barry Truax - Handbook for Acoustic Ecology](http://www.sfu.ca/sonic-studio/handbook/)
+- [Barry Truax - Handbook for Acoustic Ecology](http://www.sfu.ca/sonic-studio/handbook/)
