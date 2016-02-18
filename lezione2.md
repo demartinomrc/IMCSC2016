@@ -13,7 +13,7 @@ title: IMCSC2016
 
 1. Frequenza
 
-2. Intensità
+2. Intensità 
 
 3. Timbro
 
