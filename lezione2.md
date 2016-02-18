@@ -7,7 +7,7 @@ title: IMCSC2016
 
 ### Acustica e PsicoAcustica
 
-***IL SUONO - Caratteristiche e percezione (riassunto degli argomenti trattati)***
+**IL SUONO** - ***Caratteristiche e percezione (riassunto degli argomenti trattati)***
 
 #### 1. Elementi caratterizzanti:
 
@@ -38,17 +38,18 @@ title: IMCSC2016
 
 #### 3. Parametri del Suono nel tempo:
 
-1. ADSR - Attack, Decay, Sustain, Release
+1. ADSR - *Attack, Decay, Sustain, Release*
 
 
-#### 4.Riassunto della Lezione II:
+#### 4. Riassunto della Lezione II:
 
-1. [Dispense della Seconda Lezione]
+1. [Dispense della Seconda Lezione] \- *presto on line*
+
 2. [**Slide**](https://www.dropbox.com/s/u6qt2o0in6kesqu/Imcsc-slide-video.m4v?dl=0) (Filmato Riassuntivo. Vedi punto 6 per i link agli ascolti citati nelle slide)
 
 #### 5. Seconda Tesina:
 
-Tra le seguenti composizioni, sceglierne una ed analizzarla usando la terminologia specifica di percezione ed analisi del Suono affrontata nella lezione.
+*Tra le seguenti composizioni, sceglierne una ed analizzarla usando la terminologia specifica di percezione ed analisi del Suono affrontata nella lezione.*
 
 #### 6. Composizioni proposte per l'analisi:
 
@@ -58,8 +59,8 @@ Tra le seguenti composizioni, sceglierne una ed analizzarla usando la terminolog
 
 2. Krzysztof Penderecki -  **Threnody to the Victims of Hiroshima**
 - [partitura](https://www.dropbox.com/s/25tsfj0mkm78opi/Threnody.pdf?dl=0)
+  - [legenda dei simboli usati in partitura](https://youtu.be/2DD7gzDYBgY)
 - [audio](https://youtu.be/HilGthRhwP8)
-- [legenda dei simboli usati in partitura](https://youtu.be/2DD7gzDYBgY)
 
 3. György Ligeti - **Lux Æterna**
 - [partitura](https://www.dropbox.com/s/i9zw2m4xt31deuh/Lux%20Aeterna.pdf?dl=0)
@@ -70,11 +71,7 @@ Tra le seguenti composizioni, sceglierne una ed analizzarla usando la terminolog
 - [audio](https://youtu.be/i0345c6zNfM)
 
 5. Luciano Berio - **Sequenza V per trombone**
-<<<<<<< HEAD
 - [partitura](https://www.dropbox.com/s/03odib7dwdniil2/berio-sequenzaV.pdf?dl=0)
-=======
-- [partitura](https://www.dropbox.com/s/u6b5m8kww3dznzz/Sequenza%20V.pdf?dl=0)
->>>>>>> 96f544d865053ada9e9cc8286ba0e32de7733814
 - [audio](https://youtu.be/ZqlUhN7TbAk)
 
 6. John Cage - **Sonates and Interludes - V**
@@ -84,7 +81,6 @@ Tra le seguenti composizioni, sceglierne una ed analizzarla usando la terminolog
 
 
 #### 7. Bibliografia:
-
 - [Armando Gentilucci - Introduzione alla Musica Elettronica](https://copy.com/gmatZ8qkaw1WROAG)
 - [Henri Pousseur - La musica elettronica](https://www.dropbox.com/s/hzafguvw6y7iecc/Pousseur_La%20musica%20elettronica.pdf?dl=0)
 - [Barry Truax - Handbook for Acoustic Ecology](http://www.sfu.ca/sonic-studio/handbook/)
