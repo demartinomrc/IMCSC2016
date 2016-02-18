@@ -61,7 +61,7 @@ Tra le seguenti composizioni, sceglierne una ed analizzarla usando la terminolog
 - [audio](https://youtu.be/HilGthRhwP8)
 - [legenda dei simboli usati in partitura](https://youtu.be/2DD7gzDYBgY)
 
-3. György Ligeti - **Lux AÆterna**
+3. György Ligeti - **Lux Æterna**
 - [partitura](https://www.dropbox.com/s/i9zw2m4xt31deuh/Lux%20Aeterna.pdf?dl=0)
 - [audio](https://youtu.be/Zy8SQ-LWC20)
 
