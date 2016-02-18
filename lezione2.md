@@ -70,7 +70,11 @@ Tra le seguenti composizioni, sceglierne una ed analizzarla usando la terminolog
 - [audio](https://youtu.be/i0345c6zNfM)
 
 5. Luciano Berio - **Sequenza V per trombone**
+<<<<<<< HEAD
 - [partitura](https://www.dropbox.com/s/03odib7dwdniil2/berio-sequenzaV.pdf?dl=0)
+=======
+- [partitura](https://www.dropbox.com/s/u6b5m8kww3dznzz/Sequenza%20V.pdf?dl=0)
+>>>>>>> 96f544d865053ada9e9cc8286ba0e32de7733814
 - [audio](https://youtu.be/ZqlUhN7TbAk)
 
 6. John Cage - **Sonates and Interludes - V**
