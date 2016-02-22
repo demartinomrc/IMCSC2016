@@ -1,9 +1,10 @@
 ---
 layout: default
-title: IMCSC2016
+title: IMCSC2016  
 ---
 
 ## LEZIONE II
+
 
 ### Acustica e PsicoAcustica
 
