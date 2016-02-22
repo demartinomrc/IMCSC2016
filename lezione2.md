@@ -16,6 +16,7 @@ title: IMCSC2016
 2. Intensità 
 
 3. Timbro
+ - [Articolo sul Timbro di Jean-Claude Risset](https://www.dropbox.com/s/q8cph03tx0c72ow/Risset.pdf?dl=0)
 
 
 #### 2. Tipologie, Composizione ed interazione tra Suoni:
