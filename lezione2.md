@@ -44,7 +44,7 @@ title: IMCSC2016
 
 #### 4. Riassunto della Lezione II:
 
-1. [Dispense della Seconda Lezione](xxx)
+1. [Dispense della Seconda Lezione](https://www.academia.edu/22305517/INFORMATICA_MUSICALE_-2016_-LEZIONE_II)
 
 2. [**Slide**](https://www.dropbox.com/s/u6qt2o0in6kesqu/Imcsc-slide-video.m4v?dl=0) (Filmato Riassuntivo. Vedi punto 6 per i link agli ascolti citati nelle slide)
 
