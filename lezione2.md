@@ -44,7 +44,7 @@ title: IMCSC2016
 
 #### 4. Riassunto della Lezione II:
 
-1. [Dispense della Seconda Lezione] \- *presto on line*
+1. [Dispense della Seconda Lezione](xxx)
 
 2. [**Slide**](https://www.dropbox.com/s/u6qt2o0in6kesqu/Imcsc-slide-video.m4v?dl=0) (Filmato Riassuntivo. Vedi punto 6 per i link agli ascolti citati nelle slide)
 
@@ -57,27 +57,33 @@ title: IMCSC2016
 1. Gérard Grisey - **Partiels**
 - [partitura](https://www.dropbox.com/s/w2ji6mvmrfu0o2g/Grisey_Partiels_MASTER_SCORE.pdf?dl=0)
 - [audio](https://youtu.be/jqzukP_BtW8)
+- [documentazione](https://issuu.com/chrisarrell/docs/arrellpartielsanalysis/1)  ***in inglese***
 
 2. Krzysztof Penderecki -  **Threnody to the Victims of Hiroshima**
 - [partitura](https://www.dropbox.com/s/25tsfj0mkm78opi/Threnody.pdf?dl=0)
   - [legenda dei simboli usati in partitura](https://youtu.be/2DD7gzDYBgY)
 - [audio](https://youtu.be/HilGthRhwP8)
+- [documentazione](http://www.anthonybannach.com/uploads/2/1/6/7/21674290/pendereckipaper.pdf)  ***in inglese***
 
 3. György Ligeti - **Lux Æterna**
 - [partitura](https://www.dropbox.com/s/i9zw2m4xt31deuh/Lux%20Aeterna.pdf?dl=0)
 - [audio](https://youtu.be/Zy8SQ-LWC20)
+- [documentazione](http://www.artesmusicales.org/web/images/IMG/descargas12/433/433-7-Art2-ESPACIO_JOVEN_Lux_aeterna.pdf) ***in spagnolo***
 
 4. Steve Reich - **Piano Phase**
 - [partitura](https://www.dropbox.com/s/o2457gbmmk1sipp/PianoPhase.pdf?dl=0)
 - [audio](https://youtu.be/i0345c6zNfM)
+- [documentazione](https://www.amherst.edu/media/view/313298/original/Taruskin%2Bon%2BReich.pdf) ***in inglese***
 
 5. Luciano Berio - **Sequenza V per trombone**
 - [partitura](https://www.dropbox.com/s/03odib7dwdniil2/berio-sequenzaV.pdf?dl=0)
 - [audio](https://youtu.be/ZqlUhN7TbAk)
+- [documentazione](http://pure.au.dk/portal/files/51408986/2011_01_03_Revised_and_formatted_paper_for_upload_Hansen_2011_.pdf) ***in inglese***
 
 6. John Cage - **Sonates and Interludes - V**
 - [partitura](https://www.dropbox.com/s/np9l64vvw1z411d/Cage%20-%20Sonatas%20and%20Interludes%20for%20prepared%20piano.pdf?dl=0)
 - [audio](https://youtu.be/jRHoKZRYBlY)
+- [documentazione](http://rosewhitemusic.com/piano/writings/six-views-sonatas-interludes/) ***in inglese***
 
 
 
