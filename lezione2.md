@@ -2,7 +2,6 @@
 layout: default
 title: IMCSC2016  
 ---
-
 ## LEZIONE II
 
 
