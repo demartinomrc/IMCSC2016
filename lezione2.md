@@ -48,7 +48,7 @@ subtitle: Corso di Informatica Musicale del Conservatorio di Santa Cecilia 2016
 
 1. [Dispense della Seconda Lezione](https://www.academia.edu/22305517/INFORMATICA_MUSICALE_-2016_-LEZIONE_II)
 
-2. [**Slide**](https://www.dropbox.com/s/u6qt2o0in6kesqu/Imcsc-slide-video.m4v?dl=0) (Filmato Riassuntivo. Vedi punto 6 per i link agli ascolti citati nelle slide)
+2. [**Slide**](https://youtu.be/9NWXHQC95fg) (Filmato Riassuntivo. *Vedi punto 6 per i link agli ascolti citati nelle slide*)
 
 #### 5. Seconda Tesina:
 

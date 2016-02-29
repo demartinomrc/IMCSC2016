@@ -42,7 +42,7 @@ subtitle: Corso di Informatica Musicale del Conservatorio di Santa Cecilia 2016
 #### 4. Riassunto della Lezione III:
 
 1. [Dispense della Terza Lezione](asd)
-2. [**Slide**](asd)(Filmato Riassuntivo. Vedi punto 6 per i link agli ascolti citati nelle slide)
+2. [**Slide**](asd)  (Filmato Riassuntivo. Vedi punto 6 per i link agli ascolti citati nelle slide)
 
 #### 5. Seconda Tesina:
 
@@ -58,3 +58,4 @@ subtitle: Corso di Informatica Musicale del Conservatorio di Santa Cecilia 2016
 
 #### 7. Bibliografia:
 - [Armando Gentilucci - Introduzione alla Musica Elettronica](https://copy.com/gmatZ8qkaw1WROAG)
+- [Piero Schiavoni - Dispense]()
