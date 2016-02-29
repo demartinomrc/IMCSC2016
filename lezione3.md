@@ -50,12 +50,9 @@ title: IMCSC2016
 
 1. Gérard Grisey - **Partiels**
 - [partitura](https://www.dropbox.com/s/w2ji6mvmrfu0o2g/Grisey_Partiels_MASTER_SCORE.pdf?dl=0)
-- [audio](https://youtu.be/jqzukP_BtW8)
-- [documentazione](https://issuu.com/chrisarrell/docs/arrellpartielsanalysis/1)  ***in inglese***
+
 
 
 
 #### 7. Bibliografia:
 - [Armando Gentilucci - Introduzione alla Musica Elettronica](https://copy.com/gmatZ8qkaw1WROAG)
-- [Henri Pousseur - La musica elettronica](https://www.dropbox.com/s/hzafguvw6y7iecc/Pousseur_La%20musica%20elettronica.pdf?dl=0)
-- [Barry Truax - Handbook for Acoustic Ecology](http://www.sfu.ca/sonic-studio/handbook/)
