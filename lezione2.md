@@ -58,7 +58,7 @@ subtitle: Corso di Informatica Musicale del Conservatorio di Santa Cecilia 2016
 
 1. Gérard Grisey - **Partiels**
 - [partitura](https://www.dropbox.com/s/w2ji6mvmrfu0o2g/Grisey_Partiels_MASTER_SCORE.pdf?dl=0)
-- [audio](https://www.youtube.com/watch?v=jQgLU0gjPtI&feature=youtu.be&t=33m5s)
+- [audio](https://www.youtube.com/watch?v=jQgLU0gjPtI&feature=youtu.be&t=33m5s) (*Esecuzione dell'Ensemble Intercontemporain. Il video precedente è stato rimosso)*
 - [documentazione](https://issuu.com/chrisarrell/docs/arrellpartielsanalysis/1)  ***in inglese***
 
 2. Krzysztof Penderecki -  **Threnody to the Victims of Hiroshima**
