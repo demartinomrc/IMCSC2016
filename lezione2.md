@@ -44,15 +44,21 @@ subtitle: Corso di Informatica Musicale del Conservatorio di Santa Cecilia 2016
 1. ADSR - *Attack, Decay, Sustain, Release*
 
 
+---
+
 #### 4. Riassunto della Lezione II:
 
-1. [Dispense della Seconda Lezione](https://www.academia.edu/22305517/INFORMATICA_MUSICALE_-2016_-LEZIONE_II)
+1. [**Dispense della Seconda Lezione**](https://www.academia.edu/22305517/INFORMATICA_MUSICALE_-2016_-LEZIONE_II)
 
 2. [**Slide**](https://youtu.be/9NWXHQC95fg) (Filmato Riassuntivo. *Vedi punto 6 per i link agli ascolti citati nelle slide*)
 
-#### 5. Seconda Tesina:
+---
+
+#### 5. Esercizio - Seconda Tesina:
 
 *Tra le seguenti composizioni, sceglierne una ed analizzarla usando la terminologia specifica di percezione ed analisi del Suono affrontata nella lezione.*
+
+---
 
 #### 6. Composizioni proposte per l'analisi:
 
@@ -88,6 +94,7 @@ subtitle: Corso di Informatica Musicale del Conservatorio di Santa Cecilia 2016
 - [documentazione](http://rosewhitemusic.com/piano/writings/six-views-sonatas-interludes/) ***in inglese***
 
 
+---
 
 #### 7. Bibliografia:
 - [Armando Gentilucci - Introduzione alla Musica Elettronica](https://copy.com/gmatZ8qkaw1WROAG)

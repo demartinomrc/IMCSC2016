@@ -25,6 +25,8 @@ subtitle: Corso di Informatica Musicale del Conservatorio di Santa Cecilia 2016
 4. La Computer Music negli Stati Uniti [1960]
   - [documentazione](https://www.dropbox.com/s/hrhq04aljmt9v02/usa.pdf?dl=0)
 
+  ---
+
 #### 2. Ascolti:
 
 1. Karlheinz Stockhausen -  [1954] **Studio II**
@@ -60,14 +62,20 @@ subtitle: Corso di Informatica Musicale del Conservatorio di Santa Cecilia 2016
   - [esecuzione - Parte I](https://youtu.be/chhxK_RhZIk)
   - [Parte II](https://youtu.be/G41JGAYsgsg)
 
-#### 3.Riassunto della Lezione I:
+  ---
+
+#### 3. Riassunto della Lezione I:
 
 1. [**Riassunto della Prima Lezione**](https://www.academia.edu/21693947/INFORMATICA_MUSICALE_-2016_-_LEZIONE_I)
 2. [**Slide**](https://youtu.be/41q5xp4q1d4) (Filmato Riassuntivo)
 
-#### 4. Prima Tesina:
+---
+
+#### 4. Esercizio - Prima Tesina:
 
 Tra gli ascolti proposti, si scelga un solo brano e se ne compili una breve analisi comprendente un quadro storico, una descrizione del brano e delle impressioni personali basate sull'esperienza all'ascolto.  
+
+---
 
 #### 5. Bibliografia:
 
