@@ -33,18 +33,19 @@ subtitle: Corso di Informatica Musicale del Conservatorio di Santa Cecilia 2016
   - [Documentazione](https://www.dropbox.com/s/9z6pkchh4oobc5g/TRDcoppiestereofoniche.pdf?dl=0)
 - Esempi di microfonazione degli strumenti musicali
   - [Documentazione](https://www.dropbox.com/s/hqkdx9tx6dn168p/TRDmicrofonazionestrumenti.pdf?dl=0)
+  
 #### 1.2 Trasmissione:
 
 - Linee bilanciate e sbilanciate
 
 #### 1.3 Elaborazione:
 - Mixer ed Outboards
--[Documentazione](https://www.dropbox.com/s/tohviasmwzkvd0e/TRDmixer.pdf?dl=0)
+  - [Documentazione](https://www.dropbox.com/s/tohviasmwzkvd0e/TRDmixer.pdf?dl=0)
 
 #### 1.4 Diffusione:
 - Concetti di Amplificazione
 - Altoparlanti
-- [Documentazione](https://www.dropbox.com/s/1k5jqj098ls7urt/TRDamplificazione.pdf?dl=0)
+  - [Documentazione](https://www.dropbox.com/s/1k5jqj098ls7urt/TRDamplificazione.pdf?dl=0)
 
 
 ---
@@ -73,10 +74,10 @@ subtitle: Corso di Informatica Musicale del Conservatorio di Santa Cecilia 2016
 - Terzo suono di Tartini
 - Senso Sonoro e Senso Musicale
 - Audio Binaurale (ascolto con cuffie)
- - [Registrazione Binaurale della Sinfonia N.5 di Shostakovich](https://youtu.be/epf1QxuHJv8)
- - [Registrazione binaurale dimostrativa](https://youtu.be/IUDTlvagjJA)
- - [Olofonia](https://www.youtube.com/watch?v=H0EinU82Br4)
- 
+  - [Registrazione Binaurale della Sinfonia N.5 di Shostakovich](https://youtu.be/epf1QxuHJv8)
+  - [Registrazione binaurale dimostrativa](https://youtu.be/IUDTlvagjJA)
+  - [Olofonia](https://www.youtube.com/watch?v=H0EinU82Br4)
+
   *Tutte le illusioni sono ascoltabili (rigorosamente tramite cuffie od auricolari) cliccando* [***qui***](http://fisicaondemusica.unimore.it/Effetti_e_illusioni_acustiche.html)
 
 
