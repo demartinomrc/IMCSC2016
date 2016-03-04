@@ -33,7 +33,7 @@ subtitle: Corso di Informatica Musicale del Conservatorio di Santa Cecilia 2016
   - [Documentazione](https://www.dropbox.com/s/9z6pkchh4oobc5g/TRDcoppiestereofoniche.pdf?dl=0)
 - Esempi di microfonazione degli strumenti musicali
   - [Documentazione](https://www.dropbox.com/s/hqkdx9tx6dn168p/TRDmicrofonazionestrumenti.pdf?dl=0)
-  
+
 #### 1.2 Trasmissione:
 
 - Linee bilanciate e sbilanciate
@@ -87,7 +87,7 @@ subtitle: Corso di Informatica Musicale del Conservatorio di Santa Cecilia 2016
 #### 4. Riassunto della Lezione III:
 
 1. [**Dispense della Terza Lezione**](asd)
-2. [**Slide**](asd)  (Filmato Riassuntivo)
+2. [**Slide**](https://youtu.be/LP-40prpmyo)  (Filmato Riassuntivo)
 
 ---
 
