@@ -86,7 +86,7 @@ subtitle: Corso di Informatica Musicale del Conservatorio di Santa Cecilia 2016
 
 #### 4. Riassunto della Lezione III:
 
-1. [**Dispense della Terza Lezione**](asd)
+1. [**Dispense della Terza Lezione**](https://www.academia.edu/23013069/INFORMATICA_MUSICALE_-_LEZIONE_III)
 2. [**Slide**](https://youtu.be/LP-40prpmyo)  (Filmato Riassuntivo)
 
 ---
