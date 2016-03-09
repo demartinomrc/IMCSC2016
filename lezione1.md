@@ -80,4 +80,4 @@ Tra gli ascolti proposti, si scelga un solo brano e se ne compili una breve anal
 #### 5. Bibliografia:
 
 - [Armando Gentilucci - Introduzione alla Musica Elettronica](https://copy.com/gmatZ8qkaw1WROAG)
-- [Henri Pousseur - La musica elettronica](https://www.dropbox.com/s/4ctl4fup8x54co0/Pousseur_La%20musica%20elettronica.pdf?dl=0)
+- [Henri Pousseur - La musica elettronica](https://www.dropbox.com/s/hzafguvw6y7iecc/Pousseur_La%20musica%20elettronica.pdf?dl=0)
