@@ -129,5 +129,5 @@ subtitle: Corso di Informatica Musicale del Conservatorio di Santa Cecilia 2016
 
 #### 7. Bibliografia:
 - [Armando Gentilucci - Introduzione alla Musica Elettronica](https://copy.com/gmatZ8qkaw1WROAG)
-- [Henri Pousseur - La Musica Elettronica]((https://www.dropbox.com/s/hzafguvw6y7iecc/Pousseur_La%20musica%20elettronica.pdf?dl=0))
+- [Henri Pousseur - La Musica Elettronica](https://www.dropbox.com/s/hzafguvw6y7iecc/Pousseur_La%20musica%20elettronica.pdf?dl=0)
 - [Piero Schiavoni - Dispense del corso di Tecniche di Registrazione e Diffusione del Suono 2006-2008](nosite)
