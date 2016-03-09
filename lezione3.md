@@ -101,7 +101,7 @@ subtitle: Corso di Informatica Musicale del Conservatorio di Santa Cecilia 2016
 
 1. Alvin Lucier - **I'm Sitting in a Room [1969]**
 - [audio](https://youtu.be/fAxHlLK3Oyk)
-- [testo](https://www.dropbox.com/s/e20gucqywuxuh2d/Sitting.pdf?dl=0) (*ps: Dropbox presenta problemi nella  visualizzazione dei caratteri. Pertanto è consigliato il download del pdf.*)
+- [testo](https://www.dropbox.com/s/e20gucqywuxuh2d/Sitting.pdf?dl=0) (*ps: Dropbox presenta problemi nella  visualizzazione dei caratteri. Pertanto è consigliato il download del pdf*)
 
 2. Alvin Lucier - **Nothing is Real (Strawberry fields) [1990]**
 - [performance](https://www.youtube.com/watch?v=adUkYPkPhRg)
