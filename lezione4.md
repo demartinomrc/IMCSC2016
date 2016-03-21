@@ -19,14 +19,17 @@ subtitle: Corso di Informatica Musicale del Conservatorio di Santa Cecilia 2016
 
 **Forme d'onda:**
 
-- Onda triangolare
+- Onda Sinusoidale
+- Onda Triangolare
 - Onda a Dente di Sega    
 - Onda Quadra
 
 *Ascolti*
+
 1. Karlheinz Stockhausen -  **Studio II**  [1954]
   - [audio](https://youtu.be/bwj6ZptPnDo)
-12. Giorgio Nottoli -  **Seguendo un Filo di Luce**  [2002]
+
+2. Giorgio Nottoli -  **Seguendo un Filo di Luce**  [2002]
     - [audio](https://youtu.be/bwj6ZptPnDo)
 
 #### 1.2 Sintesi Sottrattiva
@@ -45,14 +48,41 @@ subtitle: Corso di Informatica Musicale del Conservatorio di Santa Cecilia 2016
 #### 1.3 Sintesi Granulare
 
 
+*Ascolti*
+1. Curtis Roads -  **Eleventh Vortex**  [2005]
+  - [audio](https://youtu.be/XgBjD6_SbOU)
+
+2. Barry Truax - **Song of Songs - Coda** [1993]
+  - [audio](https://youtu.be/XgBjD6_SbOU)
+
+
+
 #### 1.4 Modulazioni
 
 - Modulazione d'Ampiezza
 - Modulazione ad Anello
+
+*Ascolti*
+
+1. Karlheinz Stockhausen - **Mantra** [1970]
+  - [audio](https://youtu.be/831CmEITXdI)
+
+
 - Modulazione di Frequenza (o Sintesi per Modulazione di Frequenza)
+
+*Ascolti*
+
+1. John Chowning
+  - **Stria** [1977] - [audio](https://youtu.be/988jPjs1gao)
+  - **Turenas** [1972] - [audio] (https://youtu.be/kSbTOB5ft5c)
+
 
 
 #### 1.5 Sintesi per Modelli Fisici
+
+Resintesi del primo quadro de La Sagra della Primavera
+- [audio](https://youtu.be/5qC706SCbCA)
+
 
 
 #### 2. Cenni di Semiografia Musicale Contemporanea
