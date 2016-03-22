@@ -133,7 +133,7 @@ Primo quadro de La Sagra della Primavera sintetizzato con CSound
 
 #### 4. Esercizio - Quarta Tesina:
 
-*Nella Quarta Tesina si svolga una breve spiegazione dei principî di Sintesi del Suono tra quelli spiegati durante la lezione*
+*Nella Quarta Tesina si svolga una breve spiegazione dei principali metodi di sintesi e modulazione del suono spiegati durante la lezione*
 
 ---
 
