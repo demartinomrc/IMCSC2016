@@ -28,7 +28,7 @@ subtitle: Corso di Informatica Musicale del Conservatorio di Santa Cecilia 2016
 
 1. Karlheinz Stockhausen -  **Studio II**  [1954] - [audio](https://youtu.be/bwj6ZptPnDo)
 
-2. Giorgio Nottoli -  **Seguendo un Filo di Luce**  [2002]   - [audio](https://youtu.be/bwj6ZptPnDo)
+2. Giorgio Nottoli -  **Seguendo un Filo di Luce**  [2002]   - [audio](http://www.deezer.com/track/1222337)
 
 #### 1.2 Sintesi Sottrattiva
 
@@ -50,7 +50,7 @@ subtitle: Corso di Informatica Musicale del Conservatorio di Santa Cecilia 2016
 
 1. Curtis Roads -  **Eleventh Vortex**  [2005] - [audio](https://youtu.be/XgBjD6_SbOU)
 
-2. Barry Truax - **Song of Songs - Coda** [1993] - [audio](https://youtu.be/XgBjD6_SbOU)
+2. Barry Truax - **Song of Songs - Coda** [1993] - [audio](https://youtu.be/O9znAHz2ui4)
 
 
 
@@ -89,7 +89,7 @@ Resintesi del primo quadro de La Sagra della Primavera
 #### 3. Riassunto della Lezione IV:
 
 1. [**Dispense della Quarta Lezione**]() ***presto on line***
-2. [**Slide**]()  (Filmato Riassuntivo) ***presto on line***
+2. [**Slide**](https://youtu.be/A0QiTyHYuk0)  (Filmato Riassuntivo)
 
 ---
 
