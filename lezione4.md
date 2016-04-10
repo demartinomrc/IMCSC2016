@@ -67,14 +67,19 @@ subtitle: Corso di Informatica Musicale del Conservatorio di Santa Cecilia 2016
 
 [Documentazione](https://www.dropbox.com/s/kmzhh4fx6vxqltz/amrm.pdf?dl=0)
 
+---
+
 *Ascolti*
 
 1. Karlheinz Stockhausen - **Mantra** [1970]  - [audio](https://youtu.be/831CmEITXdI)
+
+---
 
 
 - Modulazione di Frequenza (o Sintesi per Modulazione di Frequenza)
 
 [Documentazione](https://www.dropbox.com/s/hsr5xpc2nwwboya/fm.pdf?dl=0)
+
 *Ascolti*
 
 1. John Chowning :
@@ -126,7 +131,7 @@ Primo quadro de La Sagra della Primavera sintetizzato con CSound
 
 #### 3. Riassunto della Lezione IV:
 
-1. [**Dispense della Quarta Lezione**]() ***presto on line***
+1. [**Dispense della Quarta Lezione**](https://www.academia.edu/24263813/INFORMATICA_MUSICALE_-_LEZIONE_IV)
 2. [**Slide**](https://youtu.be/A0QiTyHYuk0)  (Filmato Riassuntivo)
 
 ---
