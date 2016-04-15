@@ -45,14 +45,22 @@ F. Romitelli -	*Trash TV Trance*;
 
 <iframe width="300" height="169" src="https://www.youtube.com/embed/5NLvaJ-UXrA?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+S. Reich - *Electric Counterpoint*;  
+- Partitura [Pdf](https://www.dropbox.com/s/jonfnn312cmu8dg/Steve%20Reich%20Electric%20Counterpoint.Full%20Score.pdf?dl=0)
+
+<iframe width="300" height="225" src="https://www.youtube.com/embed/plL2VDAoThU?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+
+
+
 
 ---
 
 **Clarinetto**:   
-P. Boulez - *Dialogue de l’ombre double*;    
-- Partitura [Pdf](https://www.dropbox.com/s/hdls7rke21ek2db/Boulez_Dialoguedelombredouble.pdf?dl=0)
+A. Lucier - *In Memoriam John Higgins*;    
+- Partitura [Pdf](https://www.dropbox.com/s/6g0m12p1sslzz6s/Lucier%20-%20In%20Memoriam%20Jon%20Higgins.pdf?dl=0)
 
-<iframe width="300" height="169" src="https://www.youtube.com/embed/zCFjKXEqaVA?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" height="169" src="https://www.youtube.com/embed/WOE3lpUc7Is?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 
 ---
@@ -77,10 +85,7 @@ S. Sciarrino - *Introduzione all’oscuro*;
 
 **Flauto**:
 
-- L. Berio - *Sequenza I*;   
-Partitura [Pdf](https://www.dropbox.com/s/xny22g6pbpbpww6/Berio_SequenzaperFlauto.pdf?dl=0)
 
-<iframe width="300" height="169" src="https://www.youtube.com/embed/ahxICHRfXAE?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 - B. Maderna - *Musica su due dimensioni*;   
 Partitura  [Pdf](https://www.dropbox.com/s/lgiln8p3mab23h0/MadernaDueDimensioni.pdf?dl=0)   
@@ -108,10 +113,10 @@ Partitura  [Pdf](https://www.dropbox.com/s/kp5e1haqo4e6anf/Ligeti_LuxAeterna.pdf
 
 
 **Oboe**:   
-L. Berio - *Sequenza VII*;   
-Partitura [Pdf](https://www.dropbox.com/s/4gc0ouzak4eruv6/Berio_SequenzaVIIper%20Oboe.pdf?dl=0)
+M. Feldman - *Concerto per Oboe ed Orchestra*;   
+Partitura [Pdf](https://www.dropbox.com/s/cf7si7s1sbgtkyw/Feldman%20-%20Oboe%20and%20Orchestra.pdf?dl=0)
 
-<iframe width="300" height="169" src="https://www.youtube.com/embed/2fGeiFjTwKw?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" height="225" src="https://www.youtube.com/embed/7Uw159QWJZQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 
 ---
@@ -128,9 +133,11 @@ Partitura [Pdf](https://www.academia.edu/15124386/Musica_per_Organi_Caldi_2012-1
 
 
 **Percussioni**:   
-K. Stockhausen -  *Kontakte*;   
-Partitura [Pdf](https://www.dropbox.com/s/r04yd5k9id56pcv/Stockhausen-Kontakte.pdf?dl=0)     
-<iframe width="300" height="225" src="https://www.youtube.com/embed/4kIypWdjST4?showinfo=0" frameborder="0" allowfullscreen></iframe>
+E. Varese-  *Ionisation*;   
+Partitura [Pdf](https://www.dropbox.com/s/iz3glodvcix093g/Varese%2C%20Edgar%20-%20Ionisation%2C%20for%2013%20percussion%20instruments%20%28full%20score%29.pdf?dl=0)     
+
+
+<iframe width="300" height="169" src="https://www.youtube.com/embed/wClwaBuFOJA?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 
 ---
@@ -177,6 +184,7 @@ L. Nono - *Post Praeludium per Donau*;
 
 
 ---
+
 
 
 ***Alternativa per gli archi:***   
