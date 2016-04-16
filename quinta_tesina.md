@@ -8,7 +8,7 @@ subtitle: Corso di Informatica Musicale del Conservatorio di Santa Cecilia 2016
 
 ## 1. QUINTA TESINA
 
-Ogni studente sceglie un brano dalla lista in fondo alla pagina corrispondente al proprio strumento (ad es. i pianisti scelgono di studiare un pezzo proposto per pianoforte, i cantanti un  pezzo per voce e così via). L'esercizio comprende lo studio del brano (o parte di esso, anche solo l'incipit) ed una relazione - analisi comprendente i seguenti punti:   
+Ogni studente sceglie un brano dalla lista che segue al punto 2, corrispondente al proprio strumento (ad es. i pianisti scelgono di studiare un pezzo proposto per pianoforte, i cantanti un  pezzo per voce e così via). L'esercizio comprende lo studio del brano (o parte di esso, anche solo l'incipit) ed una relazione - analisi comprendente i seguenti punti:   
 
 1. **STORIA**; Derivazioni storiche del brano e contesto in cui viene composto.   
 2. **PARTE ACUSTICO - PERCETTIVA**; Percezione, consonanza e dissonanza, rapporto suono rumore   
