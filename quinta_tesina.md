@@ -34,19 +34,22 @@ Ogni studente sceglie un brano dalla lista in fondo alla pagina corrispondente a
 
 **Canto**:   
 L. Berio - *Sequenza III*;   
-- Partitura [Pdf](https://www.dropbox.com/s/yd04e2pe7ywk93l/Berio_SequenzaIIIperVoceFemminile.pdf?dl=0)
+- Partitura [Pdf](https://www.dropbox.com/s/yd04e2pe7ywk93l/Berio_SequenzaIIIperVoceFemminile.pdf?dl=0)   
+- Note dell'autore [Link](http://www.lucianoberio.org/node/1459?610777482=1)
   <iframe width="300" height="225" src="https://www.youtube.com/embed/i2FzJDXXG-A?showinfo=0" frameborder="0" allowfullscreen></iframe>  
 
   ---
 
 **Chitarra**:   
 F. Romitelli -	*Trash TV Trance*;    
-- Partitura [Pdf](https://www.dropbox.com/s/qmw0futdiygs7l3/romitelli%20Trash%20Tv%20Trance.pdf?dl=0)
+- Partitura [Pdf](https://www.dropbox.com/s/qmw0futdiygs7l3/romitelli%20Trash%20Tv%20Trance.pdf?dl=0)   
+- Documentazione [Link](http://www.andrealanza.net/trash-tv-trance-fausto-romitelli)   
 
 <iframe width="300" height="169" src="https://www.youtube.com/embed/5NLvaJ-UXrA?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 S. Reich - *Electric Counterpoint*;  
-- Partitura [Pdf](https://www.dropbox.com/s/jonfnn312cmu8dg/Steve%20Reich%20Electric%20Counterpoint.Full%20Score.pdf?dl=0)
+- Partitura [Pdf](https://www.dropbox.com/s/jonfnn312cmu8dg/Steve%20Reich%20Electric%20Counterpoint.Full%20Score.pdf?dl=0)   
+- Documentazione [Link](https://en.wikipedia.org/wiki/Electric_Counterpoint)   
 
 <iframe width="300" height="225" src="https://www.youtube.com/embed/plL2VDAoThU?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
@@ -58,7 +61,8 @@ S. Reich - *Electric Counterpoint*;
 
 **Clarinetto**:   
 A. Lucier - *In Memoriam John Higgins*;    
-- Partitura [Pdf](https://www.dropbox.com/s/6g0m12p1sslzz6s/Lucier%20-%20In%20Memoriam%20Jon%20Higgins.pdf?dl=0)
+- Partitura [Pdf](https://www.dropbox.com/s/6g0m12p1sslzz6s/Lucier%20-%20In%20Memoriam%20Jon%20Higgins.pdf?dl=0)   
+- Note dell'autore [Link](http://www.alvin-lucier-film.com/higgins.html)   
 
 <iframe width="300" height="169" src="https://www.youtube.com/embed/WOE3lpUc7Is?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
@@ -66,8 +70,9 @@ A. Lucier - *In Memoriam John Higgins*;
 ---
 
 **Contrabbasso**:   
-L. Berio - *Sequenza XVI*;   
-- Partitura [Pdf](https://www.dropbox.com/s/op9qam6yhqrbhbh/Berio_Sequenza_XVI_contrabbasso.pdf?dl=0)
+L. Berio - *Sequenza XIV* (versione per contrabbasso);   
+- Partitura [Pdf](https://www.dropbox.com/s/op9qam6yhqrbhbh/Berio_Sequenza_XVI_contrabbasso.pdf?dl=0)   
+- Note dell'autore [Link](http://www.lucianoberio.org/node/1490?361915791=1)   
 
 <iframe width="300" height="225" src="https://www.youtube.com/embed/x-HAvRijFJQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
@@ -76,7 +81,8 @@ L. Berio - *Sequenza XVI*;
 
 **Direzione d’orchestra**:   
 S. Sciarrino - *Introduzione all’oscuro*;   
-- Partitura [Pdf](https://www.dropbox.com/s/ksaxye1a7pegax7/SciarrinoIntroduzionealloscuro.pdf?dl=0)
+- Partitura [Pdf](https://www.dropbox.com/s/ksaxye1a7pegax7/SciarrinoIntroduzionealloscuro.pdf?dl=0)   
+- Documentazione [Link](https://enricobianchi.wordpress.com/2009/10/10/479/)   
 
 <iframe width="300" height="225" src="https://www.youtube.com/embed/QJUV9VDOcHs?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
@@ -89,6 +95,7 @@ S. Sciarrino - *Introduzione all’oscuro*;
 
 - B. Maderna - *Musica su due dimensioni*;   
 Partitura  [Pdf](https://www.dropbox.com/s/lgiln8p3mab23h0/MadernaDueDimensioni.pdf?dl=0)   
+- Documentazione [Link](http://www.orchestraharmonie.it/curricula/tesiemonografia/pdftesi/GazzellonielaMusicadiMaderna.pdf)   
 
 <iframe width="300" height="169" src="https://www.youtube.com/embed/DrgBBjNbeQM?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
@@ -99,12 +106,14 @@ Partitura  [Pdf](https://www.dropbox.com/s/lgiln8p3mab23h0/MadernaDueDimensioni.
 **Musica vocale da camera**:
 
 - K.Penderecki - *Kheruvimskaya pesn*;   
-Partitura [Pdf](https://www.dropbox.com/s/316t2s06itftd5y/PendereckiKeruvimskapesn.pdf?dl=0)
+Partitura [Pdf](https://www.dropbox.com/s/316t2s06itftd5y/PendereckiKeruvimskapesn.pdf?dl=0)   
+Documentazione [Link](https://en.wikipedia.org/wiki/Krzysztof_Penderecki)   
 
 <iframe width="300" height="169" src="https://www.youtube.com/embed/92hCHDBI1WI?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 - G. Ligeti - *Lux Aeterna*;   
-Partitura  [Pdf](https://www.dropbox.com/s/kp5e1haqo4e6anf/Ligeti_LuxAeterna.pdf?dl=0)   
+Partitura  [Pdf](https://www.dropbox.com/s/kp5e1haqo4e6anf/Ligeti_LuxAeterna.pdf?dl=0)  
+Documentazione [Link](https://en.wikipedia.org/wiki/Lux_Aeterna_(Ligeti))    
 
 <iframe width="300" height="169" src="https://www.youtube.com/embed/mIcO8fPspP0?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
@@ -114,7 +123,8 @@ Partitura  [Pdf](https://www.dropbox.com/s/kp5e1haqo4e6anf/Ligeti_LuxAeterna.pdf
 
 **Oboe**:   
 M. Feldman - *Concerto per Oboe ed Orchestra*;   
-Partitura [Pdf](https://www.dropbox.com/s/cf7si7s1sbgtkyw/Feldman%20-%20Oboe%20and%20Orchestra.pdf?dl=0)
+Partitura [Pdf](https://www.dropbox.com/s/cf7si7s1sbgtkyw/Feldman%20-%20Oboe%20and%20Orchestra.pdf?dl=0)   
+Documentazione [Link](https://it.wikipedia.org/wiki/Morton_Feldman)   
 
 <iframe width="300" height="225" src="https://www.youtube.com/embed/7Uw159QWJZQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
@@ -125,6 +135,7 @@ Partitura [Pdf](https://www.dropbox.com/s/cf7si7s1sbgtkyw/Feldman%20-%20Oboe%20a
 **Organo**:   
 P. Citera : *Musica per Organi Caldi*;   
 Partitura [Pdf](https://www.academia.edu/15124386/Musica_per_Organi_Caldi_2012-15_)   
+Documentazione [Ask me](http://citera.xyz)
 
 <iframe width="300" height="169" src="https://www.youtube.com/embed/sq4Y-Q_emS8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
@@ -135,7 +146,7 @@ Partitura [Pdf](https://www.academia.edu/15124386/Musica_per_Organi_Caldi_2012-1
 **Percussioni**:   
 E. Varese-  *Ionisation*;   
 Partitura [Pdf](https://www.dropbox.com/s/iz3glodvcix093g/Varese%2C%20Edgar%20-%20Ionisation%2C%20for%2013%20percussion%20instruments%20%28full%20score%29.pdf?dl=0)     
-
+Documentazione [Link](https://en.wikipedia.org/wiki/Ionisation_(Varèse))   
 
 <iframe width="300" height="169" src="https://www.youtube.com/embed/wClwaBuFOJA?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
@@ -147,10 +158,14 @@ Partitura [Pdf](https://www.dropbox.com/s/iz3glodvcix093g/Varese%2C%20Edgar%20-%
 
  - L. Nono - *...Sofferte onde serene...*;      
  Partitura [Pdf](https://www.dropbox.com/s/nnp6b6iiohk3sp7/Nono_sofferte_onde_serene.pdf?dl=0)   
+ Documentazione [Link](https://www.academia.edu/8940320/Simmetrie_di_costruzione_formale_in_...sofferte_onde_serene..._di_Luigi_Nono)   
+
  <iframe width="300" height="225" src="https://www.youtube.com/embed/h6aPlkDvP7c?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
  - K. Stockhausen -  *Kontakte*;       
-Partitura [Pdf](https://www.dropbox.com/s/r04yd5k9id56pcv/Stockhausen-Kontakte.pdf?dl=0)       
+Partitura [Pdf](https://www.dropbox.com/s/r04yd5k9id56pcv/Stockhausen-Kontakte.pdf?dl=0)    
+Documentazione [Link](https://en.wikipedia.org/wiki/Kontakte_(Stockhausen))   
+
 <iframe width="300" height="225" src="https://www.youtube.com/embed/4kIypWdjST4?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ---
@@ -158,7 +173,7 @@ Partitura [Pdf](https://www.dropbox.com/s/r04yd5k9id56pcv/Stockhausen-Kontakte.p
 
 **Sax**:   
 G. Silvi - *A Sax*;   
-- Partitura [Pdf](https://www.dropbox.com/s/1qekb6ympn0dghd/Silvi_ASAX.pdf?dl=0)   
+- Partitura e Documentazione [Pdf](https://www.dropbox.com/s/1qekb6ympn0dghd/Silvi_ASAX.pdf?dl=0)   
 
 <iframe width="300" height="169" src="https://www.youtube.com/embed/LA9oJingdc8?showinfo=0" frameborder="0" allowfullscreen></iframe>  
 
@@ -167,7 +182,8 @@ G. Silvi - *A Sax*;
 
 **Tuba**:   
 L. Nono - *Post Praeludium per Donau*;   
-- Partitura [Pdf](https://www.dropbox.com/s/s5pypkzm9x2h78t/NonoPostPrae-LudiumperDonau.pdf?dl=0)  
+- Partitura [Pdf](https://www.dropbox.com/s/s5pypkzm9x2h78t/NonoPostPrae-LudiumperDonau.pdf?dl=0)   
+Note dell'Autore [Link](http://www.luiginono.it/it/luigi-nono/opere/post-prae-ludium-n-1-per-donau)     
 
 <iframe width="300" height="225" src="https://www.youtube.com/embed/OuM_J0qqThs?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
@@ -179,6 +195,7 @@ L. Nono - *Post Praeludium per Donau*;
 **Violino**: P. Boulez - *Anthem II*;   
 - Partitura [Pdf](https://www.dropbox.com/s/nfh4kd8fizntkyj/Boulez_AnthemII.pdf?dl=0)
 - Parte Elettronica [Pdf](https://www.dropbox.com/s/lh66py5adwb7607/Boulez_AnthemII_Elettronica.pdf?dl=0)  
+Documentazione [Link](https://en.wikipedia.org/wiki/Anthèmes)   
 
 <iframe width="300" height="225" src="https://www.youtube.com/embed/TMYDgwNALY8?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
@@ -190,6 +207,7 @@ L. Nono - *Post Praeludium per Donau*;
 ***Alternativa per gli archi:***   
 G. Ligeti - *Streichquartett No.2*;   
 - Partitura [Pdf](https://www.dropbox.com/sh/0o6sbx2a86clxps/AAAIu2Fhn2zae5obYnKoLWOaa?dl=0)   
+Documentazione [Link](https://en.wikipedia.org/wiki/String_Quartet_No._2_(Ligeti))   
 <iframe width="300" height="225" src="https://www.youtube.com/embed/Yx_Q_mIth0Q?showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 
