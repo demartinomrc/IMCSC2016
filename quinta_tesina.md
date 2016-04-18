@@ -34,7 +34,7 @@ Ogni studente sceglie un brano dalla lista che segue al punto 2, corrispondente 
 
 **Canto**:   
 L. Berio - *Sequenza III*;   
-- Partitura [Pdf](https://www.dropbox.com/s/yd04e2pe7ywk93l/Berio_SequenzaIIIperVoceFemminile.pdf?dl=0)   
+- Partitura [Pdf](https://www.dropbox.com/s/jquwzfedlbl1zs1/SequenzaIII.pdf?dl=0)   
 - Note dell'autore [Link](http://www.lucianoberio.org/node/1459?610777482=1)
   <iframe width="300" height="225" src="https://www.youtube.com/embed/i2FzJDXXG-A?showinfo=0" frameborder="0" allowfullscreen></iframe>  
 
